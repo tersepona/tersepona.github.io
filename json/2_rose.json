@@ -9,7 +9,7 @@
       "admob_interid1": "ca-app-pub-4132761121202947/2027663276",
       "admob_interid2": "ca-app-pub-4132761121202947/2027663276",
       "admob_interid3": "ca-app-pub-4132761121202947/2027663276",
-      "admob_bannerid": "xxxxca-app-pub-4132761121202947/8244946638",
+      "admob_bannerid": "xxca-app-pub-4132761121202947/8244946638",
       "admob_openid": "ca-app-pub-4132761121202947/9366456614",
       "interval_intertitial": "4",
       "startappid": "201669628",
@@ -26,7 +26,7 @@
     "title":"Rose",
     "description":"+82 1019-0000-1111",
     "image":"https://tersepona.github.io/gambar/Rose/Rose1.webp",
-    "videoid":"https://tersepona.github.io/video/Rose/Rose1.mp4"
+    "videoid":"https://tersepona.github.io/video/rose/rose1.mp4"
   },
   {
   "id":2,
@@ -40,7 +40,7 @@
     "title":"Roseanne Park",
     "description":"+82 232-0000-0301",
     "image":"https://tersepona.github.io/gambar/Rose/Rose3.webp",
-    "videoid":"https://tersepona.github.io/video/Rose/Rose1.mp4"
+    "videoid":"https://tersepona.github.io/video/rose/rose1.mp4"
   }
   ],
   "Wallpaper":
