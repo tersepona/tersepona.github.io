@@ -25,21 +25,21 @@
     "id":1,
     "title":"Addison Rae",
     "description":"+20 789-452-2221",
-    "image":"file:///android_asset/alienboot/image/addison1.webp",
+    "image":"https://tersepona.github.io/gambar/addison/addison1.webp",
     "videoid":"https://tersepona.github.io/video/addison/addison1.mp4"
   },
   {
   "id":2,
   "title":"Addison Rae",
   "description":"+20 808-776-0555",
-    "image":"file:///android_asset/alienboot/image/addison2.webp",
+    "image":"https://tersepona.github.io/gambar/addison/addison2.webp",
   "videoid":"https://tersepona.github.io/video/addison/addison2.mp4"
   },
   {
     "id":3,
     "title":"Addison Rae",
     "description":"+20 888-111-0001",
-    "image":"file:///android_asset/alienboot/image/addison3.webp",
+    "image":"https://tersepona.github.io/gambar/addison/addison3.webp",
     "videoid":"https://tersepona.github.io/video/addison/addison1.mp4"
   }
 ],
