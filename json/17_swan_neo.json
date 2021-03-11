@@ -25,21 +25,21 @@
     "id":1,
     "title":"Swan & Neo",
     "description":"+7 555-444-1222",
-    "image":"file:///android_asset/alienboot/image/swan1.webp",
+    "image":"https://tersepona.github.io/gambar/swan/swan1.webp",
     "videoid":"https://tersepona.github.io/video/swan/swan2.mp4"
   },
   {
   "id":2,
   "title":"Swan & Neo",
   "description":"+7 555-455-0234",
-    "image":"file:///android_asset/alienboot/image/swan2.webp",
+    "image":"https://tersepona.github.io/gambar/swan/swan2.webp",
   "videoid":"https://tersepona.github.io/video/swan/swan1.mp4"
   },
   {
     "id":3,
     "title":"Swan & Neo",
     "description":"+7 555-466-4321",
-    "image":"file:///android_asset/alienboot/image/swan3.webp",
+    "image":"https://tersepona.github.io/gambar/swan/swan3.webp",
     "videoid":"https://tersepona.github.io/video/swan/swan2.mp4"
   }
 ],
