@@ -1,0 +1,178 @@
+{
+
+  "More":
+  [
+    
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Ludo King",
+      "image_url":"file:///android_asset/gambar/lvl1_01.webp",
+      "video_url":"rose1",
+      "voice_url":"dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id":2,
+      "name":"Homescapes",
+      "image_url":"file:///android_asset/home.webp",
+      "video_url":"flower",
+      "voice_url":"cinta_diam.mp3"
+    },
+    {
+      "id":3,
+      "name":"Minecraft",
+      "image_url":"file:///android_asset/mine.webp",
+      "video_url":"flower3",
+      "voice_url":"malas_ibadah.mp3"
+    },
+    {
+      "id":4,
+      "name":"Sonic the Hedgehog™ Classic",
+      "image_url":"file:///android_asset/sonic.webp",
+      "video_url":"footbal",
+      "voice_url":"malas_ibadah.mp3"
+    },
+    {
+      "id":5,
+      "name":"War Machines: Best Free Online War & Military Game",
+      "image_url":"file:///android_asset/machine.webp",
+      "video_url":"flower",
+      "voice_url":"cinta_diam.mp3"
+    },
+    {
+      "id":6,
+      "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
+      "image_url":"file:///android_asset/heli.webp",
+      "video_url":"flower3",
+      "voice_url":"malas_ibadah.mp3"
+    }
+  ],
+
+
+
+ "Soal": [
+        {
+          "id": 1,
+          "img_soal": "file:///android_asset/gambar/lvl1_01.webp",
+          "jawaban": "Katakan Cinta",
+          "bantuan": "Cieee Gak bisa ya SEMANGAT"
+        },
+        {
+            "id": 2,
+            "img_soal": "file:///android_asset/gambar/lvl1_02.webp",
+            "jawaban": "Kucing Belang",
+            "bantuan": "Hewan peliharaan"
+        },
+        {
+            "id": 3,
+            "img_soal": "file:///android_asset/gambar/lvl1_03.webp",
+            "jawaban": "BANYAK",
+            "bantuan": "XXXXXX"
+        },
+        {
+            "id": 4,
+            "img_soal": "file:///android_asset/gambar/lvl1_04.webp",
+            "jawaban": "3",
+            "bantuan": "3"
+        },
+        {
+            "id": 5,
+            "img_soal": "file:///android_asset/gambar/lvl1_05.webp",
+            "jawaban": "5 EKOR",
+            "bantuan": "Karena jumlah sapi akan tetap sama meskipun 2 sapi harus kehilangan ekornya karena dipotong"
+        },
+        {
+            "id": 6,
+            "img_soal": "file:///android_asset/gambar/lvl1_06.webp",
+            "jawaban": "Mobile Legends",
+            "bantuan": "sebuah game online yang sedang ramai saat ini. Tentunya pertanyaan yang dimaksudkan bukanlah mobil pada umumnya karena jawabannya adalah sebuah plesetan dari kata mobil."
+        },
+        {
+            "id": 7,
+            "img_soal": "file:///android_asset/gambar/lvl1_07.webp",
+            "jawaban": "sendok",
+            "bantuan": "seringkali kita masukkan mulut namun bukanlah sebuah makanan."
+        },
+        {
+            "id": 8,
+            "img_soal": "file:///android_asset/gambar/lvl1_08.webp",
+            "jawaban": "kotoran ayam",
+            "bantuan": "Yang Wangi biasanya warna cokelat. Dalam bahasa jawa TEMBELIK LINCUNG"
+        },
+        {
+            "id": 9,
+            "img_soal": "file:///android_asset/gambar/lvl1_09.webp",
+            "jawaban": "tangga",
+            "bantuan": "RT"
+        },
+        {
+            "id": 10,
+            "img_soal": "file:///android_asset/gambar/lvl1_10.webp",
+            "jawaban": "8",
+            "bantuan": "Jumlah lubang pada kaos berlubang adalah X. Beberapa ada yang menjawab Y. Jawaban yang paling tepat X, karena pada gambar, bagian depan kaos tembus sampai dengan background."
+        },
+        {
+            "id": 11,
+            "img_soal": "file:///android_asset/gambar/lvl2_01.webp",
+            "jawaban": "susah dipegang",
+            "bantuan": "sama-sama susah ...."
+        },
+        {
+            "id": 12,
+            "img_soal": "file:///android_asset/gambar/lvl2_02.webp",
+            "jawaban": "rebutan",
+            "bantuan": "RAMBUTAN"
+        },
+        {
+            "id": 13,
+            "img_soal": "file:///android_asset/gambar/lvl2_03.webp",
+            "jawaban": "Karena uang dulu udah tidak laku",
+            "bantuan": "Karena uang dulu (+) - - - -  - - - - -  - - - - "
+        },
+        {
+            "id": 14,
+            "img_soal": "file:///android_asset/gambar/lvl2_04.webp",
+            "jawaban": "Benda hilang",
+            "bantuan": "- - - - -   - - - - - -"
+        },
+        {
+            "id": 15,
+            "img_soal": "file:///android_asset/gambar/lvl2_05.webp",
+            "jawaban": "Katak Beradik",
+            "bantuan": "FROG"
+        },
+        {
+            "id": 16,
+            "img_soal": "file:///android_asset/gambar/lvl2_06.webp",
+            "jawaban": "Bungatimin",
+            "bantuan": "JAWAB AJA (Bungatimin)"
+        },
+        {
+            "id": 17,
+            "img_soal": "file:///android_asset/gambar/lvl2_07.webp",
+            "jawaban": "Kumandi pakai sabun",
+            "bantuan": "KumandX XXXXX XXXXX"
+        },
+        {
+            "id": 18,
+            "img_soal": "file:///android_asset/gambar/lvl2_08.webp",
+            "jawaban": "Supirnya",
+            "bantuan": "driver"
+        },
+        {
+            "id": 19,
+            "img_soal": "file:///android_asset/gambar/lvl2_09.webp",
+            "jawaban": "Catur",
+            "bantuan": "Bayangin aja kuda dan bentang diangkat."
+        },
+        {
+            "id": 20,
+            "img_soal": "file:///android_asset/gambar/lvl2_10.webp",
+            "jawaban": "PINTU",
+            "bantuan": "AYO SEMANGAT..."
+        }
+  ]
+
+}
