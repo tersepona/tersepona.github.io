@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "ADMOB",
+      "select_ads": "STARTAPP",
       "status_app": "0",
       "link_redirect": "https://",
 
@@ -12,7 +12,7 @@
       "admob_bannerid": "ca-app-pub-4132761121202947/8244946638",
       "admob_openid": "ca-app-pub-4132761121202947/9366456614",
       "interval_intertitial": "4",
-      "startappid": "201669628",
+      "startappid": "203566011",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
       "packagename": "com.nganu.yt_giovanna_alparone"
