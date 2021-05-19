@@ -6,11 +6,11 @@
       "link_redirect": "https://",
 
 
-      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
-      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
-      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
-      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
-      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "admob_bannerid": "ca-app-pub-5442031822013763/8100228905",
+      "admob_interid1": "ca-app-pub-5442031822013763/2847902220",
+      "admob_interid2": "ca-app-pub-5442031822013763/1141914796",
+      "admob_interid3": "ca-app-pub-5442031822013763/5282493875",
+      "admob_openid": "ca-app-pub-5442031822013763/2656330539",
       "interval_intertitial": "4",
       "startappid": "203566011",
       "fan_inter": "YOUR_PLACEMENT_ID",
@@ -42,6 +42,21 @@
     "description":"+7 555-545-0901",
     "image":"https://tersepona.github.io/gambar/nastya/nastya3.webp",
     "videoid":"https://tersepona.github.io/video/nastya/nastya2.mp4"
+  }
+  ,
+  {
+    "id":4,
+    "title":"Like Nastya",
+    "description":"+7 555-545-221",
+    "image":"https://tersepona.github.io/gambar/nastya/nastya4.webp",
+    "videoid":"https://tersepona.github.io/video/nastya/nastya2.mp4"
+  },
+  {
+    "id":5,
+    "title":"Like Nastya",
+    "description":"+7 555-545-0901",
+    "image":"https://tersepona.github.io/gambar/nastya/nastya5.webp",
+    "videoid":"https://tersepona.github.io/video/nastya/nastya1.mp4"
   }
   ],
   "Wallpaper":
