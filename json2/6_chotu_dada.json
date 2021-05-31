@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "STARTAPP",
+      "select_ads": "APPODEAL",
       "status_app": "0",
       "link_redirect": "https://",
 
@@ -15,7 +15,7 @@
       "startappid": "203566011",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
-      "appodeal_id": "appodeal",
+      "appodeal_id": "87facc3800e2200952c0e68a89d59e673721aa3fe59a8904",
       "packagename": "com.nganu.chotu_dada_messenger"
     }
   ],
