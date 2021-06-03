@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "APPODEAL",
+      "select_ads": "FACEBOOK",
       "status_app": "0",
       "link_redirect": "https://",
 
@@ -13,8 +13,8 @@
       "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
       "interval_intertitial": "4",
       "startappid": "203566011",
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner": "YOUR_PLACEMENT_ID",
+      "fan_inter": "252362962920790_252363012920785",
+      "fan_banner": "252362962920790_334149281408824",
       "appodeal_id": "87facc3800e2200952c0e68a89d59e673721aa3fe59a8904",
       "packagename": "com.nganu.chotu_dada_messenger"
     }
