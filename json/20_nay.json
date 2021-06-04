@@ -3,7 +3,7 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "select_ads": "STARTAPP",
+      "select_ads": "FACEBOOK",
       "packagename": "YOUR_PLACEMENT_ID",
 
 
@@ -20,11 +20,11 @@
 
 
 
-      "fan_banner": "YOUR_PLACEMENT_ID",
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_native": "YOUR_PLACEMENT_ID",
-      "fan_native_banner": "YOUR_PLACEMENT_ID",
-      "fan_reward": "YOUR_PLACEMENT_ID",
+      "fan_banner": "273728637618494_273728720951819",
+      "fan_inter": "273728637618494_273728727618485",
+      "fan_native": "273728637618494_273728734285151",
+      "fan_native_banner": "273728637618494_273728737618484",
+      "fan_reward": "273728637618494_273728730951818",
 
       "hpk_admob1":"",
       "hpk_admob2":"",
