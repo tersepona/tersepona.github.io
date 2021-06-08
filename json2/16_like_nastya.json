@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "ADMOB",
+      "select_ads": "FACEBOOK",
       "status_app": "0",
       "link_redirect": "https://",
 
@@ -13,8 +13,8 @@
       "admob_openid": "ca-app-pub-5442031822013763/2656330539",
       "interval_intertitial": "4",
       "startappid": "203566011",
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner": "YOUR_PLACEMENT_ID",
+      "fan_inter": "227379295712140_227379329045470",
+      "fan_banner": "227379295712140_326669675783101",
       "packagename": "com.nganu.like_nastya"
     }
   ],
