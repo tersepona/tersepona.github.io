@@ -16,8 +16,8 @@
       "admob_native": "ca-app-pub-5442031822013763/7586055449",
       "admob_open": "ca-app-pub-5442031822013763/6200823877",
       "admob_open2": "ca-app-pub-5442031822013763/9968869721",
-      "open_only": "MIX",
-      "lawas": "YES",
+      "open_only": "NO",
+      "lawas": "NO",
       "fan": "NO",
       "interval":0,
 
