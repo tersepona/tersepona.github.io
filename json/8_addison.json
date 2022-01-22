@@ -1,0 +1,200 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.yt_addison_rae"
+    }
+  ],
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Addison Rae",
+    "description":"+20 789-452-2221",
+    "image":"https://tersepona.github.io/gambar/addison/addison1.webp",
+    "videoid":"https://tersepona.github.io/video/addison/addison1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Addison Rae",
+  "description":"+20 808-776-0555",
+    "image":"https://tersepona.github.io/gambar/addison/addison2.webp",
+  "videoid":"https://tersepona.github.io/video/addison/addison2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Addison Rae",
+    "description":"+20 888-111-0001",
+    "image":"https://tersepona.github.io/gambar/addison/addison3.webp",
+    "videoid":"https://tersepona.github.io/video/addison/addison1.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison2.webp"
+    },
+    {
+      "id":3,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison3.webp"
+    },
+    {
+      "id":4,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison5.webp"
+    },
+    {
+      "id":6,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison6.webp"
+    },
+    {
+      "id":7,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison7.webp"
+    },
+    {
+      "id":8,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison8.webp"
+    },
+    {
+      "id":9,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison9.webp"
+    },
+    {
+      "id":10,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison10.webp"
+    },
+    {
+      "id":11,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison11.webp"
+    },
+    {
+      "id":12,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison12.webp"
+    },
+    {
+      "id":13,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison13.webp"
+    },
+    {
+      "id":14,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison14.webp"
+    },
+    {
+      "id":15,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison15.webp"
+    },
+    {
+      "id":16,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison16.webp"
+    },
+    {
+      "id":17,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison17.webp"
+    },
+    {
+      "id":18,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison18.webp"
+    },
+    {
+      "id":19,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison19.webp"
+    },
+    {
+      "id":20,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison20.webp"
+    },
+    {
+      "id":21,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison21.webp"
+    },
+    {
+      "id":22,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison22.webp"
+    },
+    {
+      "id":23,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison23.webp"
+    },
+    {
+      "id":24,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison24.webp"
+    },
+    {
+      "id":25,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison25.webp"
+    },
+    {
+      "id": 26,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison26.webp"
+    },
+    {
+      "id": 27,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison27.webp"
+    },
+    {
+      "id": 28,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison28.webp"
+    },
+    {
+      "id": 29,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison29.webp"
+    },
+    {
+      "id": 30,
+      "title":"Addison Rae",
+      "image": "https://tersepona.github.io/gambar/addison/addison30.webp"
+    }
+  ]
+}

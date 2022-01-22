@@ -1,0 +1,141 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.shfa"
+    }
+  ],
+
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"shfa",
+    "description":"+12 339-222-1111",
+    "image":"https://tersepona.github.io/gambar/shfa/shfa1.webp",
+    "videoid":"https://tersepona.github.io/video/shfa/shfa2.mp4"
+  },
+  {
+  "id":2,
+  "title":"shfa",
+  "description":"+12 338-222-1105",
+    "image":"https://tersepona.github.io/gambar/shfa/shfa2.webp",
+  "videoid":"https://tersepona.github.io/video/shfa/shfa1.mp4"
+  },
+  {
+    "id":3,
+    "title":"shfa",
+    "description":"+12 338-222-1101",
+    "image":"https://tersepona.github.io/gambar/shfa/shfa3.webp",
+    "videoid":"https://tersepona.github.io/video/shfa/shfa2.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa1.webp"
+    },
+    {
+      "id": 2,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa2.webp"
+    },
+    {
+      "id":3,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa3.webp"
+    },
+    {
+      "id":4,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa4.webp"
+    }
+  ,
+    {
+      "id":5,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa5.webp"
+    },
+    {
+      "id":6,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa6.webp"
+    },
+    {
+      "id":7,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa7.webp"
+    },
+    {
+      "id":8,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa8.webp"
+    },
+    {
+      "id":9,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa9.webp"
+    },
+    {
+      "id":10,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa10.webp"
+    },
+    {
+      "id":11,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa11.webp"
+    },
+    {
+      "id":12,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa12.webp"
+    },
+    {
+      "id":13,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa13.webp"
+    },
+    {
+      "id":14,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa14.webp"
+    },
+    {
+      "id":15,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa15.webp"
+    },
+    {
+      "id":16,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa16.webp"
+    },
+    {
+      "id":17,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa17.webp"
+    },
+    {
+      "id":18,
+      "title":"SHFA",
+      "image": "https://tersepona.github.io/gambar/shfa/shfa18.webp"
+    }
+  ]
+}

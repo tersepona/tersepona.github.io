@@ -1,0 +1,195 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.maria_clara_ejp"
+    }
+  ],
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Maria Clara",
+    "description":"+34 229-222-1111",
+    "image":"https://tersepona.github.io/gambar/mariaclara/mariaclara10.webp",
+    "videoid":"https://tersepona.github.io/video/mariaclara/mariaclara2.mp4"
+  },
+  {
+  "id":2,
+  "title":"Maria Clara",
+  "description":"+34 828-222-0105",
+    "image":"https://tersepona.github.io/gambar/mariaclara/mariaclara13.webp",
+  "videoid":"https://tersepona.github.io/video/mariaclara/mariaclara1.mp4"
+  },
+  {
+    "id":3,
+    "title":"Maria Clara",
+    "description":"+34 222-452-2221",
+    "image":"https://tersepona.github.io/gambar/mariaclara/mariaclara15.webp",
+    "videoid":"https://tersepona.github.io/video/mariaclara/mariaclara2.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara2.webp"
+    },
+    {
+      "id":3,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara3.webp"
+    },
+    {
+      "id":4,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara5.webp"
+    },
+    {
+      "id":6,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara6.webp"
+    },
+    {
+      "id":7,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara7.webp"
+    },
+    {
+      "id":8,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara8.webp"
+    },
+    {
+      "id":9,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara9.webp"
+    },
+    {
+      "id":10,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara10.webp"
+    },
+    {
+      "id":11,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara11.webp"
+    },
+    {
+      "id":12,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara12.webp"
+    },
+    {
+      "id":13,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara13.webp"
+    },
+    {
+      "id":14,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara14.webp"
+    },
+    {
+      "id":15,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara15.webp"
+    },
+    {
+      "id":16,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara16.webp"
+    },
+    {
+      "id":17,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara17.webp"
+    },
+    {
+      "id":18,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara18.webp"
+    },
+    {
+      "id":19,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara19.webp"
+    },
+    {
+      "id":20,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara20.webp"
+    },
+    {
+      "id":21,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara21.webp"
+    },
+    {
+      "id":22,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara22.webp"
+    },
+    {
+      "id":23,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara23.webp"
+    },
+    {
+      "id":24,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara24.webp"
+    },
+    {
+      "id":25,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara25.webp"
+    },
+    {
+      "id": 26,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara26.webp"
+    },
+    {
+      "id": 27,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara27.webp"
+    },
+    {
+      "id": 28,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara28.webp"
+    },
+    {
+      "id": 29,
+      "title":"Maria Clara",
+      "image": "https://tersepona.github.io/gambar/mariaclara/mariaclara29.webp"
+    }
+  ]
+}

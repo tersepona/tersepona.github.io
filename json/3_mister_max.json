@@ -1,0 +1,177 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.mister_max_messenger"
+    }
+  ],
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Mister Max",
+    "description":"+02 889-452-1111",
+    "image":"https://tersepona.github.io/gambar/mister/mister4.webp",
+    "videoid":"https://tersepona.github.io/video/mister/mister1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Mister Max",
+  "description":"+02 808-452-0105",
+    "image":"https://tersepona.github.io/gambar/mister/mister10.webp",
+  "videoid":"https://tersepona.github.io/video/mister/mister2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Mister Max",
+    "description":"+02 888-452-0901",
+    "image":"https://tersepona.github.io/gambar/mister/mister22.webp",
+    "videoid":"https://tersepona.github.io/video/mister/mister1.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister2.webp"
+    },
+    {
+      "id":3,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister3.webp"
+    },
+    {
+      "id":4,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister5.webp"
+    },
+    {
+      "id":6,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister6.webp"
+    },
+    {
+      "id":7,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister7.webp"
+    },
+    {
+      "id":8,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister8.webp"
+    },
+    {
+      "id":9,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister9.webp"
+    },
+    {
+      "id":10,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister10.webp"
+    },
+    {
+      "id":11,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister11.webp"
+    },
+    {
+      "id":12,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister12.webp"
+    },
+    {
+      "id":13,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister13.jpg"
+    },
+    {
+      "id":14,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister14.jpg"
+    },
+    {
+      "id":15,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister15.webp"
+    },
+    {
+      "id":16,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister16.webp"
+    },
+    {
+      "id":17,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister17.webp"
+    },
+    {
+      "id":18,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister18.webp"
+    },
+    {
+      "id":19,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister19.webp"
+    },
+    {
+      "id":20,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister20.webp"
+    },
+    {
+      "id":21,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister21.webp"
+    },
+    {
+      "id":22,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister22.webp"
+    },
+    {
+      "id":23,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister23.webp"
+    },
+    {
+      "id":24,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister24.webp"
+    },
+    {
+      "id":25,
+      "title":"Mister Max",
+      "image": "https://tersepona.github.io/gambar/mister/mister25.webp"
+    }
+  ]
+
+
+}

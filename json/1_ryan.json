@@ -1,0 +1,200 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.yt_ryan_toys_fake_chat_video_call_fakecall"
+    }
+  ],
+
+  "Contact":
+  [
+  {
+    "id":1,
+    "title":"Ryan's Toys",
+    "description":"+82 1019-0000-1111",
+    "image":"https://tersepona.github.io/gambar/ryan/ryan1.webp",
+    "videoid":"https://tersepona.github.io/video/ryan/ryan1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Ryan's Toys",
+  "description":"+82 8811-0000-0812",
+    "image":"https://tersepona.github.io/gambar/ryan/ryan2.webp",
+  "videoid":"https://tersepona.github.io/video/ryan/ryan2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Ryan's Toys",
+    "description":"+82 232-0000-0301",
+    "image":"https://tersepona.github.io/gambar/ryan/ryan3.webp",
+    "videoid":"https://tersepona.github.io/video/ryan/ryan1.mp4"
+  }
+  ],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan31.webp"
+    },
+    {
+      "id": 2,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan32.webp"
+    },
+    {
+      "id":3,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan33.webp"
+    },
+    {
+      "id":4,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan34.webp"
+    }
+  ,
+    {
+      "id":5,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan1.webp"
+    },
+    {
+      "id":6,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan6.webp"
+    },
+    {
+      "id":7,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan10.webp"
+    },
+    {
+      "id":8,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan8.webp"
+    },
+    {
+      "id":9,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan9.webp"
+    },
+    {
+      "id":10,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan10.webp"
+    },
+    {
+      "id":11,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan11.webp"
+    },
+    {
+      "id":12,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan12.webp"
+    },
+    {
+      "id":13,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan13.webp"
+    },
+    {
+      "id":14,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan14.webp"
+    },
+    {
+      "id":15,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan15.webp"
+    },
+    {
+      "id":16,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan16.webp"
+    },
+    {
+      "id":17,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan17.webp"
+    },
+    {
+      "id":18,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan18.webp"
+    }
+    ,
+    {
+      "id":19,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan19.webp"
+    }
+    ,
+    {
+      "id":20,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan20.webp"
+    },
+    {
+      "id":21,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan21.webp"
+    },
+    {
+      "id":22,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan22.webp"
+    },
+    {
+      "id":23,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan23.webp"
+    },
+    {
+      "id":24,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan24.webp"
+    },
+    {
+      "id":25,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan25.webp"
+    },
+    {
+      "id":26,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan26.webp"
+    },
+    {
+      "id":27,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan27.webp"
+    },
+    {
+      "id":28,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan28.webp"
+    }
+    ,
+    {
+      "id":29,
+      "title":"Ryan's Toys",
+      "image": "https://tersepona.github.io/gambar/ryan/ryan29.webp"
+    }
+  ]
+
+
+}

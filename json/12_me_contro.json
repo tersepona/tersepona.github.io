@@ -1,0 +1,201 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.me_contro_te"
+    }
+  ],
+
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Lui & Sofi (Me Contro)",
+    "description":"+43 222-999-1111",
+    "image":"https://tersepona.github.io/gambar/mecontro/mecontro1.webp",
+    "videoid":"https://tersepona.github.io/video/mecontro/mecontro2.mp4"
+  },
+  {
+  "id":2,
+  "title":"Lui & Sofi (Me Contro)",
+  "description":"+43 222-999-0225",
+    "image":"https://tersepona.github.io/gambar/mecontro/mecontro22.webp",
+  "videoid":"https://tersepona.github.io/video/mecontro/mecontro1.mp4"
+  },
+  {
+    "id":3,
+    "title":"Lui & Sofi (Me Contro)",
+    "description":"+43 222-999-0001",
+    "image":"https://tersepona.github.io/gambar/mecontro/mecontro23.webp",
+    "videoid":"https://tersepona.github.io/video/mecontro/mecontro1.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro2.webp"
+    },
+    {
+      "id":3,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro3.webp"
+    },
+    {
+      "id":4,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro5.webp"
+    },
+    {
+      "id":6,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro6.webp"
+    },
+    {
+      "id":7,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro7.webp"
+    },
+    {
+      "id":8,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro8.webp"
+    },
+    {
+      "id":9,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro9.webp"
+    },
+    {
+      "id":10,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro10.webp"
+    },
+    {
+      "id":11,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro11.webp"
+    },
+    {
+      "id":12,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro12.webp"
+    },
+    {
+      "id":13,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro13.webp"
+    },
+    {
+      "id":14,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro14.webp"
+    },
+    {
+      "id":15,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro15.webp"
+    },
+    {
+      "id":16,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro16.webp"
+    },
+    {
+      "id":17,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro17.webp"
+    },
+    {
+      "id":18,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro18.webp"
+    },
+    {
+      "id":19,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro19.webp"
+    },
+    {
+      "id":20,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro20.webp"
+    },
+    {
+      "id":21,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro21.webp"
+    },
+    {
+      "id":22,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro22.webp"
+    },
+    {
+      "id":23,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro23.webp"
+    },
+    {
+      "id":24,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro24.webp"
+    },
+    {
+      "id":25,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro25.webp"
+    },
+    {
+      "id": 26,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro26.webp"
+    },
+    {
+      "id": 27,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro27.webp"
+    },
+    {
+      "id": 28,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro28.webp"
+    },
+    {
+      "id": 29,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro29.webp"
+    },
+    {
+      "id": 30,
+      "title":"Lui & Sofi (Me Contro)",
+      "image": "https://tersepona.github.io/gambar/mecontro/mecontro30.webp"
+    }
+  ]
+}

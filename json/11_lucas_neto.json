@@ -1,0 +1,104 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.lucas_neto_yt"
+    }
+  ],
+  "Contact":
+  [
+  {
+    "id":1,
+    "title":"Lucas Neto",
+    "description":"+34 9989-882-1111",
+    "image":"https://tersepona.github.io/gambar/lucasneto/lucasneto11.webp",
+    "videoid":"https://tersepona.github.io/video/lucasneto/lucasneto2.mp4"
+  },
+  {
+  "id":2,
+  "title":"Lucas Neto",
+  "description":"+34 808-882-0005",
+    "image":"https://tersepona.github.io/gambar/lucasneto/lucasneto8.webp",
+  "videoid":"https://tersepona.github.io/video/lucasneto/lucasneto2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Lucas Neto",
+    "description":"+34 8998-412-0001",
+    "image":"https://tersepona.github.io/gambar/lucasneto/lucasneto9.webp",
+    "videoid":"https://tersepona.github.io/video/lucasneto/lucasneto2.mp4"
+  }
+  ],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Lucas Neto",
+      "image": "https://tersepona.github.io/gambar/lucasneto/lucasneto1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Lucas Neto",
+      "image": "https://tersepona.github.io/gambar/lucasneto/lucasneto2.webp"
+    },
+    {
+      "id":3,
+      "title":"Lucas Neto",
+      "image": "https://tersepona.github.io/gambar/lucasneto/lucasneto3.webp"
+    },
+    {
+      "id":4,
+      "title":"Lucas Neto",
+      "image": "https://tersepona.github.io/gambar/lucasneto/lucasneto4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Lucas Neto",
+      "image": "https://tersepona.github.io/gambar/lucasneto/lucasneto5.webp"
+    },
+    {
+      "id":6,
+      "title":"Lucas Neto",
+      "image": "https://tersepona.github.io/gambar/lucasneto/lucasneto6.webp"
+    },
+    {
+      "id":7,
+      "title":"Lucas Neto",
+      "image": "https://tersepona.github.io/gambar/lucasneto/lucasneto7.webp"
+    },
+    {
+      "id":8,
+      "title":"Lucas Neto",
+      "image": "https://tersepona.github.io/gambar/lucasneto/lucasneto8.webp"
+    },
+    {
+      "id":9,
+      "title":"Lucas Neto",
+      "image": "https://tersepona.github.io/gambar/lucasneto/lucasneto9.webp"
+    },
+    {
+      "id":10,
+      "title":"Lucas Neto",
+      "image": "https://tersepona.github.io/gambar/lucasneto/lucasneto10.webp"
+    },
+    {
+      "id":11,
+      "title":"Lucas Neto",
+      "image": "https://tersepona.github.io/gambar/lucasneto/lucasneto11.webp"
+    }
+  ]
+  }

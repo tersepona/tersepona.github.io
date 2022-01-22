@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "appodeal_id": "appodeal",
+      "packagename": "com.nganu.chotu_dada_messenger"
+    }
+  ],
+
+  "Contact":
+  [
+    {
+      "id":1,
+      "title":"Chotu Dada",
+      "description":"+91 888-123-1111",
+      "image":"https://tersepona.github.io/gambar/chotu/chotu9.webp",
+      "videoid":"https://tersepona.github.io/video/chotu/chotu2.mp4"
+    },
+    {
+    "id":2,
+    "title":"Chotu Dada",
+    "description":"+91 888-123-2733",
+      "image":"https://tersepona.github.io/gambar/chotu/chotu10.webp",
+    "videoid":"https://tersepona.github.io/video/chotu/chotu1.mp4"
+    },
+    {
+      "id":3,
+      "title":"Chotu Dada",
+      "description":"+91 888-132-9822",
+      "image":"https://tersepona.github.io/gambar/chotu/chotu12.webp",
+      "videoid":"https://tersepona.github.io/video/chotu/chotu1.mp4"
+    }
+  ],
+    "Wallpaper":
+    [
+      {
+        "id":1,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu1.webp"
+      },
+      {
+        "id": 2,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu2.webp"
+      },
+      {
+        "id":3,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu3.webp"
+      },
+      {
+        "id":4,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu4.webp"
+      },
+
+      {
+        "id":5,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu5.webp"
+      },
+      {
+        "id":6,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu6.webp"
+      },
+      {
+        "id":7,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu7.webp"
+      },
+      {
+        "id":8,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu8.webp"
+      },
+      {
+        "id":9,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu9.webp"
+      },
+      {
+        "id":10,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu10.webp"
+      },
+      {
+        "id":11,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu11.webp"
+      },
+      {
+        "id":12,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu12.webp"
+      },
+      {
+        "id":13,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu13.webp"
+      },
+      {
+        "id":14,
+        "title":"Chotu Dada",
+        "image": "https://tersepona.github.io/gambar/chotu/chotu14.webp"
+      }
+    ]
+  }

@@ -1,0 +1,202 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.sara_ali_khan"
+    }
+  ],
+
+  "Contact":
+  [
+  {
+    "id":1,
+    "title":"Cute",
+    "description":"+82 1019-0000-1111",
+    "image":"https://tersepona.github.io/gambar/Cute/Cute/Cute1.webp",
+    "videoid":"https://tersepona.github.io/video/Cute/Cute/Cute1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Cuteanne",
+  "description":"+82 8811-0000-0812",
+    "image":"https://tersepona.github.io/gambar/Cute/Cute/Cute2.webp",
+  "videoid":"https://tersepona.github.io/video/Cute/Cute/Cute2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Kim Jisoo",
+    "description":"+82 232-0000-0301",
+    "image":"https://tersepona.github.io/gambar/Cute/Cute/Cute3.webp",
+    "videoid":"https://tersepona.github.io/video/Cute/Cute/Cute1.mp4"
+  }
+  ],
+  "Wallpaper":
+    [
+      {
+        "id":1,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute1.webp"
+      },
+      {
+        "id": 2,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute2.webp"
+      },
+      {
+        "id":3,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute3.webp"
+      },
+      {
+        "id":4,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute4.webp"
+      },
+
+      {
+        "id":5,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute5.webp"
+      },
+      {
+        "id":6,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute6.webp"
+      },
+      {
+        "id":7,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute7.webp"
+      },
+      {
+        "id":8,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute8.webp"
+      },
+      {
+        "id":9,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute9.webp"
+      },
+      {
+        "id":10,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute10.webp"
+      },
+      {
+        "id":11,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute11.webp"
+      },
+      {
+        "id":12,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute12.webp"
+      },
+      {
+        "id":13,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute13.webp"
+      },
+      {
+        "id":14,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute14.webp"
+      },
+      {
+        "id":15,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute15.webp"
+      },
+      {
+        "id":16,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute16.webp"
+      },
+      {
+        "id":17,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute17.webp"
+      },
+      {
+        "id":18,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute18.webp"
+      },
+      {
+        "id":19,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute19.webp"
+      },
+      {
+        "id":20,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute20.webp"
+      },
+      {
+        "id":21,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute21.webp"
+      },
+      {
+        "id":22,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute22.webp"
+      },
+      {
+        "id":23,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute23.webp"
+      },
+      {
+        "id":24,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute24.webp"
+      },
+      {
+        "id":25,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute25.webp"
+      },
+      {
+        "id": 26,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute26.webp"
+      },
+      {
+        "id": 27,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute27.webp"
+      },
+      {
+        "id": 28,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute28.webp"
+      },
+      {
+        "id": 29,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute29.webp"
+      },
+      {
+        "id": 30,
+        "title":"Kim Jisoo",
+        "image": "https://tersepona.github.io/gambar/Cute/Cute/Cute30.webp"
+      }
+  ]
+
+
+}

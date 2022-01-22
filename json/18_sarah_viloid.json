@@ -1,0 +1,39 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "select_ads": "STARTAPP",
+      "packagename": "YOUR_PLACEMENT_ID",
+
+
+
+      "admob_banner":"xxccaaaaaaaaaaaaaaaaaaa/3947469741",
+      "admob_inter":"xxccaaaaaaaaaaaaaaaaaaa/9640448424",
+      "admob_native": "xxccaaaaaaaaaaaaaaaaaaa/2771679941",
+      "admob_native_banner": "xxccaaaaaaaaaaaaaaaaaaa/7503571377",
+      "admob_open":"xxccaaaaaaaaaaaaaaaaaaa/3372754675",
+      "admob_reward":"xxccaaaaaaaaaaaaaaaaaaa/5701203410",
+
+      "startappid": "203566011",
+      "interval":"3",
+
+
+
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "fan_native_banner": "YOUR_PLACEMENT_ID",
+      "fan_reward": "YOUR_PLACEMENT_ID",
+
+      "hpk_admob1":"",
+      "hpk_admob2":"",
+      "hpk_admob3":"",
+      "hpk_admob4":"",
+      "hpk_admob5":""
+
+      }
+
+  ]
+
+}

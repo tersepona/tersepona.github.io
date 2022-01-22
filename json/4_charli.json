@@ -1,0 +1,165 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxxxxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.yt_charli_d_amelio"
+    }
+  ],
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Charli d'amelio",
+    "description":"+02 889-452-5651",
+    "image":"https://tersepona.github.io/gambar/charli/charli1.webp",
+    "videoid":"https://tersepona.github.io/video/charli/charli1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Charli d'amelio",
+  "description":"+02 808-452-8888",
+    "image":"https://tersepona.github.io/gambar/charli/charli2.webp",
+  "videoid":"https://tersepona.github.io/video/charli/charli2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Charli d'amelio",
+    "description":"+02 888-452-0101",
+    "image":"https://tersepona.github.io/gambar/charli/charli3.webp",
+    "videoid":"https://tersepona.github.io/video/charli/charli1.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli1.webp"
+    },
+    {
+      "id": 2,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli2.webp"
+    },
+    {
+      "id":3,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli3.webp"
+    },
+    {
+      "id":4,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli5.webp"
+    },
+    {
+      "id":6,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli6.webp"
+    },
+    {
+      "id":7,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli7.webp"
+    },
+    {
+      "id":8,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli8.webp"
+    },
+    {
+      "id":9,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli9.webp"
+    },
+    {
+      "id":10,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli10.webp"
+    },
+    {
+      "id":11,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli11.webp"
+    },
+    {
+      "id":12,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli12.webp"
+    },
+    {
+      "id":13,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli13.webp"
+    },
+    {
+      "id":14,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli14.webp"
+    },
+    {
+      "id":15,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli15.webp"
+    },
+    {
+      "id":16,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli16.webp"
+    },
+    {
+      "id":17,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli17.webp"
+    },
+    {
+      "id":18,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli18.jpg"
+    },
+    {
+      "id":19,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli19.webp"
+    },
+    {
+      "id":20,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli20.webp"
+    },
+    {
+      "id":21,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli21.webp"
+    },
+    {
+      "id":22,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli22.webp"
+    },
+    {
+      "id":23,
+      "title":"HD WALLPAPER",
+      "image": "https://tersepona.github.io/gambar/charli/charli23.webp"
+    }
+  ]
+}

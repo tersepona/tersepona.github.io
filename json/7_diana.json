@@ -1,0 +1,202 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.yt_diana_and_roma"
+    }
+  ],
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Kids Diana",
+    "description":"+1 889-112-1111",
+    "image":"https://tersepona.github.io/gambar/diana/diana1.webp",
+    "videoid":"https://tersepona.github.io/video/diana/diana2.mp4"
+  },
+  {
+  "id":2,
+  "title":"Kids Diana",
+  "description":"+1 808-452-2205",
+    "image":"https://tersepona.github.io/gambar/diana/diana5.webp",
+  "videoid":"https://tersepona.github.io/video/diana/diana1.mp4"
+  },
+  {
+    "id":3,
+    "title":"Kids Diana",
+    "description":"+1 888-452-0001",
+    "image":"https://tersepona.github.io/gambar/diana/diana12.webp",
+    "videoid":"https://tersepona.github.io/video/diana/diana2.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana31.webp"
+    },
+    {
+      "id": 2,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana32.webp"
+    },
+    {
+      "id":3,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana23.webp"
+    },
+    {
+      "id":4,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana24.webp"
+    }
+  ,
+    {
+      "id":5,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana15.webp"
+    },
+    {
+      "id":6,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana6.webp"
+    },
+    {
+      "id":7,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana7.webp"
+    },
+    {
+      "id":8,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana8.webp"
+    },
+    {
+      "id":9,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana9.webp"
+    },
+    {
+      "id":10,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana10.webp"
+    },
+    {
+      "id":11,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana11.webp"
+    },
+    {
+      "id":12,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana12.webp"
+    },
+    {
+      "id":13,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana13.webp"
+    },
+    {
+      "id":14,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana14.webp"
+    },
+    {
+      "id":15,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana15.webp"
+    },
+    {
+      "id":16,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana16.webp"
+    },
+    {
+      "id":17,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana17.webp"
+    },
+    {
+      "id":18,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana18.webp"
+    },
+    {
+      "id":19,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana19.webp"
+    },
+    {
+      "id":20,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana20.webp"
+    },
+    {
+      "id":21,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana21.webp"
+    },
+    {
+      "id":22,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana22.webp"
+    },
+    {
+      "id":23,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana23.webp"
+    },
+    {
+      "id":24,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana24.webp"
+    },
+    {
+      "id":25,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana25.webp"
+    },
+    {
+      "id": 26,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana26.webp"
+    },
+    {
+      "id": 27,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana27.webp"
+    },
+    {
+      "id": 28,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana28.webp"
+    },
+    {
+      "id": 29,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana29.webp"
+    },
+    {
+      "id": 30,
+      "title":"Kids Diana Show",
+      "image": "https://tersepona.github.io/gambar/diana/diana30.webp"
+    }
+  ]
+
+
+}

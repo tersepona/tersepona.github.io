@@ -1,0 +1,141 @@
+{
+  "Ads": [
+    {
+      "select_ads": "FACEBOOK",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_bannerid": "ca-app-pub-5442031822013763/8100228905",
+      "admob_interid1": "ca-app-pub-5442031822013763/2847902220",
+      "admob_interid2": "ca-app-pub-5442031822013763/1141914796",
+      "admob_interid3": "ca-app-pub-5442031822013763/5282493875",
+      "admob_openid": "ca-app-pub-5442031822013763/2656330539",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "1883794168450031_1883794225116692",
+      "fan_banner": "1883794168450031_1883794225116692",
+      "packagename": "com.nganu.like_nastya"
+    }
+  ],
+
+
+  "Contact":
+  [
+  {
+    "id":1,
+    "title":"Like Nastya",
+    "description":"+7 555-342-1111",
+    "image":"https://tersepona.github.io/gambar/nastya/nastya1.webp",
+    "videoid":"https://tersepona.github.io/video/nastya/nastya2.mp4"
+  },
+  {
+  "id":2,
+  "title":"Like Nastya",
+  "description":"+7 555-452-0105",
+    "image":"https://tersepona.github.io/gambar/nastya/nastya2.webp",
+  "videoid":"https://tersepona.github.io/video/nastya/nastya1.mp4"
+  },
+  {
+    "id":3,
+    "title":"Like Nastya",
+    "description":"+7 555-545-0901",
+    "image":"https://tersepona.github.io/gambar/nastya/nastya3.webp",
+    "videoid":"https://tersepona.github.io/video/nastya/nastya2.mp4"
+  }
+  ],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya2.webp"
+    },
+    {
+      "id":3,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya3.webp"
+    },
+    {
+      "id":4,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya4.webp"
+    }
+  ,
+    {
+      "id":5,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya5.webp"
+    },
+    {
+      "id":6,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya6.webp"
+    },
+    {
+      "id":7,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya7.webp"
+    },
+    {
+      "id":8,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya8.webp"
+    },
+    {
+      "id":9,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya9.webp"
+    },
+    {
+      "id":10,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya10.webp"
+    },
+    {
+      "id":11,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya11.webp"
+    },
+    {
+      "id":12,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya12.webp"
+    },
+    {
+      "id":13,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya13.webp"
+    },
+    {
+      "id":14,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya14.webp"
+    },
+    {
+      "id":15,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya15.webp"
+    },
+    {
+      "id":16,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya16.webp"
+    },
+    {
+      "id":17,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya17.webp"
+    },
+    {
+      "id":18,
+      "title":"Like Nastya",
+      "image": "https://tersepona.github.io/gambar/nastya/nastya18.webp"
+    }
+  ]
+}

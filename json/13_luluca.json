@@ -1,0 +1,125 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.luluca"
+    }
+  ],
+
+  "Contact":
+[
+  {
+    "id":1,
+    "title":"Crescendo Luluca",
+    "description":"+495-9452-1111",
+    "image":"https://tersepona.github.io/gambar/luluca/luluca1.webp",
+    "videoid":"https://tersepona.github.io/video/luluca/luluca2.mp4"
+  },
+  {
+  "id":2,
+  "title":"Crescendo Luluca",
+  "description":"+495-8452-2225",
+    "image":"https://tersepona.github.io/gambar/luluca/luluca2.webp",
+  "videoid":"https://tersepona.github.io/video/luluca/luluca1.mp4"
+  },
+  {
+    "id":3,
+    "title":"Crescendo Luluca",
+    "description":"+495-4452-0901",
+    "image":"https://tersepona.github.io/gambar/luluca/luluca3.webp",
+    "videoid":"https://tersepona.github.io/video/luluca/luluca2.mp4"
+  }
+],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca1.webp"
+    },
+    {
+      "id": 2,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca2.webp"
+    },
+    {
+      "id":3,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca3.webp"
+    },
+    {
+      "id":4,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca4.webp"
+    },
+
+    {
+      "id":5,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca5.webp"
+    },
+    {
+      "id":6,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca6.webp"
+    },
+    {
+      "id":7,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca7.webp"
+    },
+    {
+      "id":8,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca8.webp"
+    },
+    {
+      "id":9,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca9.webp"
+    },
+    {
+      "id":10,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca10.webp"
+    },
+    {
+      "id":11,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca11.webp"
+    },
+    {
+      "id":12,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca12.webp"
+    },
+    {
+      "id":13,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca13.webp"
+    },
+    {
+      "id":14,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca14.webp"
+    },
+    {
+      "id":15,
+      "title":"Crescendo Luluca",
+      "image": "https://tersepona.github.io/gambar/luluca/luluca15.jpg"
+    }
+  ]
+}

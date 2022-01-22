@@ -1,0 +1,202 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid2": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_interid3": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
+      "admob_bannerid": "xxccaaaaaaaaaaaaaaaaaaa/8244946638",
+      "admob_openid": "xxccaaaaaaaaaaaaaaaaaaa/9366456614",
+      "interval_intertitial": "4",
+      "startappid": "203566011",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "packagename": "com.nganu.rose_blackpink_messenger"
+    }
+  ],
+
+  "Contact":
+  [
+  {
+    "id":1,
+    "title":"Rose",
+    "description":"+82 1019-0000-1111",
+    "image":"https://tersepona.github.io/gambar/Rose/Rose1.webp",
+    "videoid":"https://tersepona.github.io/video/rose/rose1.mp4"
+  },
+  {
+  "id":2,
+  "title":"Roseanne",
+  "description":"+82 8811-0000-0812",
+    "image":"https://tersepona.github.io/gambar/Rose/Rose2.webp",
+  "videoid":"https://tersepona.github.io/video/rose/rose2.mp4"
+  },
+  {
+    "id":3,
+    "title":"Rose Blackpink
+    "description":"+82 232-0000-0301",
+    "image":"https://tersepona.github.io/gambar/Rose/Rose3.webp",
+    "videoid":"https://tersepona.github.io/video/rose/rose1.mp4"
+  }
+  ],
+  "Wallpaper":
+    [
+      {
+        "id":1,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose1.webp"
+      },
+      {
+        "id": 2,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose2.webp"
+      },
+      {
+        "id":3,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose3.webp"
+      },
+      {
+        "id":4,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose4.webp"
+      },
+
+      {
+        "id":5,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose5.webp"
+      },
+      {
+        "id":6,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose6.webp"
+      },
+      {
+        "id":7,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose7.webp"
+      },
+      {
+        "id":8,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose8.webp"
+      },
+      {
+        "id":9,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose9.webp"
+      },
+      {
+        "id":10,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose10.webp"
+      },
+      {
+        "id":11,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose11.webp"
+      },
+      {
+        "id":12,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose12.webp"
+      },
+      {
+        "id":13,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose13.webp"
+      },
+      {
+        "id":14,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose14.webp"
+      },
+      {
+        "id":15,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose15.webp"
+      },
+      {
+        "id":16,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose16.webp"
+      },
+      {
+        "id":17,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose17.webp"
+      },
+      {
+        "id":18,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose18.webp"
+      },
+      {
+        "id":19,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose19.webp"
+      },
+      {
+        "id":20,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose20.webp"
+      },
+      {
+        "id":21,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose21.webp"
+      },
+      {
+        "id":22,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose22.webp"
+      },
+      {
+        "id":23,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose23.webp"
+      },
+      {
+        "id":24,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose24.webp"
+      },
+      {
+        "id":25,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose25.webp"
+      },
+      {
+        "id": 26,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose26.webp"
+      },
+      {
+        "id": 27,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose27.webp"
+      },
+      {
+        "id": 28,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose28.webp"
+      },
+      {
+        "id": 29,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose29.webp"
+      },
+      {
+        "id": 30,
+        "title":"Roseanne Park",
+        "image": "https://tersepona.github.io/gambar/Rose/Rose30.webp"
+      }
+  ]
+
+
+}

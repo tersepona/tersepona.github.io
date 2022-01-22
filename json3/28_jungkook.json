@@ -1,0 +1,48 @@
+{
+  "Ads": [
+    {
+      "initial_admob":"NO",
+      "initial_mopub":"NO",
+      "initial_applovin":"NO",
+      "initial_startapp":"XYES",
+
+      "select_banner":"XADMOB",
+      "select_inter":"XADMOB",
+      "select_reward":"XSTARTAPP",
+      "select_backup_reward":"XADMOB",
+      "select_backup_ads":"XSTARTAPP",
+
+
+
+      "status_app": "0",
+      "link_redirect": "https://",
+      "backup_mode": "NO",
+
+      "admob_banner": "",
+      "admob_inter": "",
+      "admob_native": "",
+      "admob_native_banner": "",
+      "admob_open": "",
+      "admob_reward":"",
+      "banner_apa_native":"BANNER",
+
+
+      "interval": 5,
+      "startappid": "205147161",
+      "age1": 18,
+      "age2": 30,
+
+
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX",
+      "mopub_mrec": "XX",
+      "mopub_reward": "XX",
+
+      "applovin_banner": "XX",
+      "applovin_inter": "X0701d0ef4967220a",
+      "applovin_reward": "Xe7a629eca39e145a",
+      "applovin_mrec": "xx"
+    }
+  ]
+}
