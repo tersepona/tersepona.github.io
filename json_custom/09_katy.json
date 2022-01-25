@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "select_main_ads":"xx",
-      "select_backup_ads":"STARTA",
+      "select_main_ads":"ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
 
-      "main_ads_intertitial":"DefaultIntertitial",
+      "main_ads_intertitial":"ca-app-pub-5442031822013763/6075192877",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_intertitial":"DefaultIntertitial",
@@ -13,19 +13,19 @@
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
 
-      "admob_native": "xx",
-      "admob_open": "xx",
-      "admob_open2": "xx",
+      "admob_native": "ca-app-pub-5442031822013763/8085622005",
+      "admob_open": "ca-app-pub-5442031822013763/9207131987",
+      "admob_open2": "ca-app-pub-5442031822013763/9207131987",
       "open_only": "NO",
       "lawas": "NO",
       "fan": "NO",
-      "interval":1,
+      "interval":2,
 
-      "hpk_1": "",
-      "hpk_2": "",
-      "hpk_3": "",
-      "hpk_4": "",
-      "hpk_5": "",
+      "hpk_1": "ca-app-pub-5442031822013763/6147861987",
+      "hpk_2": "ca-app-pub-5442031822013763/5677088697",
+      "hpk_3": "ca-app-pub-5442031822013763/3024867010",
+      "hpk_4": "ca-app-pub-5442031822013763/6772540333",
+      "hpk_5": "ca-app-pub-5442031822013763/1520213653",
 
       "status_app": "0879869867896879667567576",
       "link_redirect": "https://"
