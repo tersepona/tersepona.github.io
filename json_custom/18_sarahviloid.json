@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_main_ads":"xx",
+      "select_main_ads":"ADMOB",
       "select_backup_ads":"STARTA",
 
       "main_ads_intertitial":"DefaultIntertitial",
@@ -14,8 +14,8 @@
       "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
 
       "admob_native": "xx",
-      "admob_open": "xx",
-      "admob_open2": "xx",
+      "admob_open": "ca-app-pub-5442031822013763/5977569072",
+      "admob_open2": "ca-app-pub-5442031822013763/5977569072",
       "open_only": "NO",
       "lawas": "NO",
       "fan": "NO",
