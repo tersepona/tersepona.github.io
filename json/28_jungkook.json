@@ -2,8 +2,8 @@
   "Ads": [
     {
       "select_ads": "STARTAPP",
-      "status_app": "0",
-      "link_redirect": "https://",
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.nganu.jungkook_bts_army_fakecall_game",
 
 
       "admob_interid1": "xxccaaaaaaaaaaaaaaaaaaa/2027663276",
