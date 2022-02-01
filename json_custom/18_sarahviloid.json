@@ -4,7 +4,7 @@
       "select_main_ads":"ADMOB",
       "select_backup_ads":"STARTA",
 
-      "main_ads_intertitial":"DefaultIntertitial",
+      "main_ads_intertitial":"ca-app-pub-5442031822013763/4897890304",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_intertitial":"DefaultIntertitial",
@@ -13,7 +13,7 @@
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
 
-      "admob_native": "xx",
+      "admob_native": "ca-app-pub-5442031822013763/4358177716",
       "admob_open": "ca-app-pub-5442031822013763/5977569072",
       "admob_open2": "ca-app-pub-5442031822013763/5977569072",
       "open_only": "NO",
@@ -21,11 +21,11 @@
       "fan": "NO",
       "interval":1,
 
-      "hpk_1": "",
-      "hpk_2": "",
-      "hpk_3": "",
-      "hpk_4": "",
-      "hpk_5": "",
+      "hpk_1": "ca-app-pub-5442031822013763/9958645297",
+      "hpk_2": "ca-app-pub-5442031822013763/7332481958",
+      "hpk_3": "ca-app-pub-5442031822013763/3393236943",
+      "hpk_4": "ca-app-pub-5442031822013763/3056704337",
+      "hpk_5": "ca-app-pub-5442031822013763/9418932706",
 
       "status_app": "0879869867896879667567576",
       "link_redirect": "https://"
