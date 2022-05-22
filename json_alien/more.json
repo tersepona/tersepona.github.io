@@ -2,6 +2,13 @@
 
 "More":
   [
+
+    {
+      "id":0,
+      "title":"LULUCA",
+      "image":"https://play-lh.googleusercontent.com/cC9ZKd0T7mhdG0bP-nip2rhvmX3gHycBhvg3cq3zihw88OtrWVILzIj6XKEqT4R-Bg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.luluca"
+    },
     {
       "id":1,
       "title":"CHARLI D'AMELIO",
@@ -16,7 +23,7 @@
     },
     {
       "id":3,
-      "title":"ME CONTRO",
+      "title":"BTS V Kim tae-hyung",
       "image":"https://play-lh.googleusercontent.com/3RO9CzUK7gjrtnTLpbGq6EV9tLJehb9bGfqtZvAm7tZIWYjbfN7aYC3XJnuX7lE5G3E=s360",
       "link":"https://play.google.com/store/apps/details?id=com.nganu.jungkook_bts_army_fakecall_game"
     },
@@ -24,7 +31,7 @@
       "id":5,
       "title":"ROSE",
       "image":"https://play-lh.googleusercontent.com/5WomFz7LPjxNhgpgWWo7T3UbZQupZMwdHCyKDCro5aWe9M5gGDQsPpXnzt1Mpz0zG6U=s360",
-      "link":"https://play.google.com/store/apps/details?id=com.nganu.jungkook_bts_army_fakecall_game"
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.rose_blackpink_messenger"
     },
     {
       "id":6,
