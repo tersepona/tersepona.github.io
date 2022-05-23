@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"xxxx",
 
       "main_ads_intertitial":"ca-app-pub-5442031822013763/2847902220",
       "main_ads_banner":"DefaultBanner",
@@ -19,7 +19,7 @@
       "open_only": "NO",
       "lawas": "NO",
       "fan": "NO",
-      "interval":1,
+      "interval":0,
 
       "hpk_1": "",
       "hpk_2": "",
