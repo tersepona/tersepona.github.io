@@ -1,14 +1,15 @@
 {
 
-"More":
+  "More":
   [
 
     {
       "id":0,
-      "title":"LULUCA",
-      "image":"https://play-lh.googleusercontent.com/cC9ZKd0T7mhdG0bP-nip2rhvmX3gHycBhvg3cq3zihw88OtrWVILzIj6XKEqT4R-Bg=w480-h960",
-      "link":"https://play.google.com/store/apps/details?id=com.nganu.luluca"
+      "title":"UPIN IPIN",
+      "image":"https://play-lh.googleusercontent.com/mrxgyH286ovHkwxiyPLfIqS64u10xCmHT-ms6kbyTDq7Qs8U7ny-f1x4dj4mSWlk3gg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.upinipin"
     },
+
     {
       "id":1,
       "title":"SAKURA SCHOOL",
@@ -17,30 +18,74 @@
     },
     {
       "id":2,
+      "title":"MISS KATY",
+      "image":"https://play-lh.googleusercontent.com/eH5kbDt02eG5Rg_I-GiQVbmHBlT7zeO33GfzVr-0PuP1IamkA6QQYacjY0Z2jQRh6w=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.miss_katy_yt"
+    },
+    {
+      "id":3,
+      "title":"LUCAS NETO",
+      "image":"https://play-lh.googleusercontent.com/jSEXTHD7D5DgzLwwMOki2inE-QoOpUIXQ4w0gLFngCpr-IDdxFjsGq6N5n69K3IiQCg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.lucas_neto_yt"
+    },
+    {
+      "id":4,
+      "title":"ADDISON RAE",
+      "image":"https://play-lh.googleusercontent.com/0CIj4_Z0DrlooaeM3ZSWGpbmBSSbG9c9KsDYxUpVqDVeMW3zZQaODu035hUFRtsPJhA=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.yt_addison_rae"
+    },
+    {
+      "id":5,
+      "title":"Sarah Viloid",
+      "image":"https://play-lh.googleusercontent.com/segDnwQIOUrn-FKmw_c3Avj6XKQVrayzH0RuqQsU-Yyd0RxEWFnrWv4EqeCKswDJNblv=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.sarahviloid"
+    },
+    {
+      "id":6,
+      "title":"PAKDE",
+      "image":"https://play-lh.googleusercontent.com/uK4sV98U0RjcrsNVXDEG2ZI9q2GNg7lNV72n4265iJRln9Ko3gMlkhPqCXGxylxriA=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.pakde_omom"
+    },
+    {
+      "id":7,
+      "title":"PAKDE",
+      "image":"https://play-lh.googleusercontent.com/r0fOZnZpUn2xVStThQgAUSHrTOfemxmNZyQuWh02xRXZmxDt3ESb7sm5p_5F-C-ZTAw=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.pakde2_omom"
+    },
+
+
+    {
+      "id":8,
+      "title":"LULUCA",
+      "image":"https://play-lh.googleusercontent.com/cC9ZKd0T7mhdG0bP-nip2rhvmX3gHycBhvg3cq3zihw88OtrWVILzIj6XKEqT4R-Bg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.luluca"
+    },
+    {
+      "id":9,
       "title":"NASTYA",
       "image":"https://play-lh.googleusercontent.com/Twfx6bnM_zyYOXew9sZOtVMdpix840ExG8BFzGWH5oLWqMBgWGrGLXWRgQ91KLIoCPk=s360",
       "link":"https://play.google.com/store/apps/details?id=com.nganu.jungkook_bts_army_fakecall_game"
     },
     {
-      "id":3,
+      "id":10,
       "title":"BTS V Kim tae-hyung",
       "image":"https://play-lh.googleusercontent.com/fUn7kRnt-8Je01F0n6NerNELx4aiSKeHgg-f1gKMnq3ysEEGtI_bwmv0Hr4eNOPL_w=w480-h960",
       "link":"https://play.google.com/store/apps/details?id=com.nganu.jungkook_bts_army_fakecall_game"
     },
     {
-      "id":5,
+      "id":11,
       "title":"ROSE",
       "image":"https://play-lh.googleusercontent.com/5WomFz7LPjxNhgpgWWo7T3UbZQupZMwdHCyKDCro5aWe9M5gGDQsPpXnzt1Mpz0zG6U=s360",
       "link":"https://play.google.com/store/apps/details?id=com.nganu.rose_blackpink_messenger"
     },
     {
-      "id":6,
+      "id":12,
       "title":"BTS JUNGKOOK",
       "image":"https://play-lh.googleusercontent.com/v1WTrf5nzoV6s_Ct22bVyWY9E7jcmrGtz7bOXleUQjNAGqVSJ64288pv6cIeE06Qd_u_=s360",
       "link":"https://play.google.com/store/apps/details?id=com.nganu.jungkook_bts_army_fakecall_game"
     },
     {
-      "id":7,
+      "id":13,
       "title":"CHARLI D'AMELIO",
       "image":"https://play-lh.googleusercontent.com/UKgNkDrziOseNuygBGDJ-ElfJKRFndhZSHVUy5IBeeXvoCZp7FDblueKk02PDGnx4Q=s360",
       "link":"https://play.google.com/store/apps/details?id=com.nganu.yt_charli_d_amelio"
