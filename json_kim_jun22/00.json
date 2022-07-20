@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"xxxx",
-      "select_backup_ads":"xxxx",
+      "select_backup_ads":"STARTAPP",
 
       "main_ads_intertitial":"xxxx",
       "main_ads_banner":"DefaultBanner",
@@ -12,7 +12,7 @@
       "backup_ads_banner":"DefaultBanner",
 
       "initialize_sdk":"INITIALIZE_SDK",
-      "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
+      "initialize_sdk_backup_ads":"205147161",
 
       "interval_intertitial":0,
       "admob_native": "xxxx",
