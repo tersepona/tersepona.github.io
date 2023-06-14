@@ -4,6 +4,32 @@
   [
 
     {
+      "id":2,
+      "title":"JIMIN",
+      "image":"https://play-lh.googleusercontent.com/unX6Z70AixbYtHAnhr7f7qwaF6bYGOHYxCFPSPuaPqxWmSLXLMFBUqjA9kiXNZ-7Y1Y=s128",
+      "link":"https://play.google.com/store/apps/details?id=com.samehadaku.bts_jimin"
+    },
+    {
+      "id":9,
+      "title":"LIKE NASTYA",
+      "image":"https://play-lh.googleusercontent.com/DGA3WUTlRx8eYTKI1g54sbDoIT_-Sf3-ZD1uuWKZM8eXlmWg2NGdFSnaaJzeC4Z6K3E=s128",
+      "link":"https://play.google.com/store/apps/details?id=com.samehadaku.nastya"
+    },
+    {
+      "id":4,
+      "title":"JOKER",
+      "image":"https://play-lh.googleusercontent.com/xBbKUY-2Ag2ovGYfH2zP6S5mMJpI8LbEwEKPtGuHUR7cTSQEPLdKpRHmDf8BPw2ZoL4=s128",
+      "link":"https://play.google.com/store/apps/details?id=com.samehadaku.joker"
+    },
+    {
+      "id":7,
+      "title":"ANNABELLE",
+      "image":"https://play-lh.googleusercontent.com/K5fB9wjqoHKHDztQmvl0tPEHdGrE0FPA8ot-6m3CwX0Q5SHxTIY5pbHjAq9pvLNiX00=s128",
+      "link":"https://play.google.com/store/apps/details?id=com.samehadaku.annabelle"
+    },
+    
+
+    {
       "id":0,
       "title":"LULUCA",
       "image":"https://play-lh.googleusercontent.com/cC9ZKd0T7mhdG0bP-nip2rhvmX3gHycBhvg3cq3zihw88OtrWVILzIj6XKEqT4R-Bg=w480-h960",
@@ -25,7 +51,7 @@
       "id":3,
       "title":"BTS V Kim tae-hyung",
       "image":"https://play-lh.googleusercontent.com/fUn7kRnt-8Je01F0n6NerNELx4aiSKeHgg-f1gKMnq3ysEEGtI_bwmv0Hr4eNOPL_w=w480-h960",
-      "link":"https://play.google.com/store/apps/details?id=com.nganu.jungkook_bts_army_fakecall_game"
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.btsv"
     },
     {
       "id":5,
@@ -38,6 +64,18 @@
       "title":"CHARLI D'AMELIO",
       "image":"https://play-lh.googleusercontent.com/UKgNkDrziOseNuygBGDJ-ElfJKRFndhZSHVUy5IBeeXvoCZp7FDblueKk02PDGnx4Q=s360",
       "link":"https://play.google.com/store/apps/details?id=com.nganu.yt_charli_d_amelio"
+    },
+    {
+      "id":8,
+      "title":"UPIN IPIN",
+      "image":"https://play-lh.googleusercontent.com/mrxgyH286ovHkwxiyPLfIqS64u10xCmHT-ms6kbyTDq7Qs8U7ny-f1x4dj4mSWlk3gg=s128",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.upinipin"
+    },
+    {
+      "id":9,
+      "title":"DIANA SHOW",
+      "image":"https://play-lh.googleusercontent.com/0rlqAeKbjfXeCXGEhidHNZ0I2QOWO6J4OmCEkADqLgkqJJLnTFVsoLoYHPTzz_XMlg=s128",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.yt_diana_and_roma"
     }
   ]
 
