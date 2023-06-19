@@ -5,10 +5,10 @@
       "initialize_sdk_backup_ads":"xxxxx",
       "url_keyboard":"https://tersepona.github.io/keyboard/keyboard.json",
 
-      "main_ads_intertitial":"xxxxx",
-      "main_ads_natives":"xxxxx",
-      "open_ads_admob":"xxxxx",
-      "main_ads_rewards":"xxxxx",
+      "main_ads_intertitial":"ca-app-pub-5442031822013763/6942500376",
+      "main_ads_natives":"ca-app-pub-5442031822013763/7381484073",
+      "open_ads_admob":"ca-app-pub-5442031822013763/3200310881",
+      "main_ads_rewards":"ca-app-pub-5442031822013763/8424717406",
 
       "backup_ads_natives":"xxxxx",
       "backup_ads_banner":"xxxxx",
