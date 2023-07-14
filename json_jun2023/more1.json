@@ -2,33 +2,7 @@
 
 "More":
   [
-
-    {
-      "id":2,
-      "title":"JIMIN",
-      "image":"https://play-lh.googleusercontent.com/unX6Z70AixbYtHAnhr7f7qwaF6bYGOHYxCFPSPuaPqxWmSLXLMFBUqjA9kiXNZ-7Y1Y=s128",
-      "link":"https://play.google.com/store/apps/details?id=com.samehadaku.bts_jimin"
-    },
-    {
-      "id":9,
-      "title":"LIKE NASTYA",
-      "image":"https://play-lh.googleusercontent.com/DGA3WUTlRx8eYTKI1g54sbDoIT_-Sf3-ZD1uuWKZM8eXlmWg2NGdFSnaaJzeC4Z6K3E=s128",
-      "link":"https://play.google.com/store/apps/details?id=com.samehadaku.nastya"
-    },
-    {
-      "id":4,
-      "title":"JOKER",
-      "image":"https://play-lh.googleusercontent.com/xBbKUY-2Ag2ovGYfH2zP6S5mMJpI8LbEwEKPtGuHUR7cTSQEPLdKpRHmDf8BPw2ZoL4=s128",
-      "link":"https://play.google.com/store/apps/details?id=com.samehadaku.joker"
-    },
-    {
-      "id":7,
-      "title":"ANNABELLE",
-      "image":"https://play-lh.googleusercontent.com/K5fB9wjqoHKHDztQmvl0tPEHdGrE0FPA8ot-6m3CwX0Q5SHxTIY5pbHjAq9pvLNiX00=s128",
-      "link":"https://play.google.com/store/apps/details?id=com.samehadaku.annabelle"
-    },
     
-
     {
       "id":0,
       "title":"LULUCA",
