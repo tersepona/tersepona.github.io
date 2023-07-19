@@ -1,0 +1,56 @@
+{
+
+"More":
+  [
+    
+    {
+      "id":0,
+      "title":"LULUCA",
+      "image":"https://play-lh.googleusercontent.com/cC9ZKd0T7mhdG0bP-nip2rhvmX3gHycBhvg3cq3zihw88OtrWVILzIj6XKEqT4R-Bg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.luluca"
+    },
+    {
+      "id":1,
+      "title":"SAKURA SCHOOL",
+      "image":"https://play-lh.googleusercontent.com/WbZOMihq8xpstvDfTvMuRxQ0Bhipujy0mJOAuFZQlAYI8nVij4TCLixA0FX0aQ8P0w=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.sakuraschools_fakechat"
+    },
+    {
+      "id":2,
+      "title":"NASTYA",
+      "image":"https://play-lh.googleusercontent.com/Twfx6bnM_zyYOXew9sZOtVMdpix840ExG8BFzGWH5oLWqMBgWGrGLXWRgQ91KLIoCPk=s360",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.jungkook_bts_army_fakecall_game"
+    },
+    {
+      "id":3,
+      "title":"BTS V Kim tae-hyung",
+      "image":"https://play-lh.googleusercontent.com/fUn7kRnt-8Je01F0n6NerNELx4aiSKeHgg-f1gKMnq3ysEEGtI_bwmv0Hr4eNOPL_w=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.btsv"
+    },
+    {
+      "id":5,
+      "title":"ROSE",
+      "image":"https://play-lh.googleusercontent.com/5WomFz7LPjxNhgpgWWo7T3UbZQupZMwdHCyKDCro5aWe9M5gGDQsPpXnzt1Mpz0zG6U=s360",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.rose_blackpink_messenger"
+    },
+    {
+      "id":7,
+      "title":"CHARLI D'AMELIO",
+      "image":"https://play-lh.googleusercontent.com/UKgNkDrziOseNuygBGDJ-ElfJKRFndhZSHVUy5IBeeXvoCZp7FDblueKk02PDGnx4Q=s360",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.yt_charli_d_amelio"
+    },
+    {
+      "id":8,
+      "title":"UPIN IPIN",
+      "image":"https://play-lh.googleusercontent.com/mrxgyH286ovHkwxiyPLfIqS64u10xCmHT-ms6kbyTDq7Qs8U7ny-f1x4dj4mSWlk3gg=s128",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.upinipin"
+    },
+    {
+      "id":9,
+      "title":"DIANA SHOW",
+      "image":"https://play-lh.googleusercontent.com/0rlqAeKbjfXeCXGEhidHNZ0I2QOWO6J4OmCEkADqLgkqJJLnTFVsoLoYHPTzz_XMlg=s128",
+      "link":"https://play.google.com/store/apps/details?id=com.nganu.yt_diana_and_roma"
+    }
+  ]
+
+}
