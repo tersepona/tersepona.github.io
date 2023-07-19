@@ -1,14 +1,14 @@
 {
    "Ads": [
     {
-      "select_backup_ads":"ADMOB",
-      "initialize_sdk_backup_ads":"xxxxx",
+      "select_backup_ads":"STARTAPP",
+      "initialize_sdk_backup_ads":"204087512",
       "url_keyboard":"https://tersepona.github.io/keyboard/keyboard.json",
 
-      "main_ads_intertitial":"xxxxx",
-      "main_ads_natives":"xxxxx",
-      "open_ads_admob":"xxxxx",
-      "main_ads_rewards":"xxxxx",
+      "main_ads_intertitial":"ca-app-pub-5442031822013763/3089401721",
+      "main_ads_natives":"ca-app-pub-5442031822013763/1776320051",
+      "open_ads_admob":"ca-app-pub-5442031822013763/8459216278",
+      "main_ads_rewards":"ca-app-pub-5442031822013763/5820610490",
 
       "backup_ads_natives":"xxxxx",
       "backup_ads_banner":"xxxxx",
